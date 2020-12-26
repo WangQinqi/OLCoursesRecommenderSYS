@@ -2,8 +2,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: 12345678
-    url: jdbc:mysql://127.0.0.1:3306/recommender
+    password: 666666
+    url: jdbc:mysql://39.97.234.82:3306/group3
   servlet:
     multipart:
       max-file-size: 10MB
