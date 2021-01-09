@@ -11,5 +11,4 @@ public class RecommenderApplication {
     public static void main(String[] args) {
         SpringApplication.run(RecommenderApplication.class, args);
     }
-
 }
