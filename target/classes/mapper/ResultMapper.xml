@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.example.recommender.dao.IResultDao">
-    <resultMap id="ResultMap" type="com.example.recommender.entity.recommendResult"></resultMap>
-    <select id="getResults" resultMap="ResultMap" parameterType="String">
-        SELECT * from recommendResult where secID_watching=#{current}
-    </select>
-</mapper>
