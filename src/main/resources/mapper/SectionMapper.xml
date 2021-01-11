@@ -8,6 +8,6 @@
             recommendResult.secID_watching = #{secId}
             and Section.secID = recommendResult.secID_recommend
         </where>
-
     </select>
 </mapper>
+

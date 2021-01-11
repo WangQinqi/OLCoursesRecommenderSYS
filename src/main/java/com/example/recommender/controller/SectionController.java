@@ -16,7 +16,9 @@ public class SectionController {
     @Autowired
     private ISectionService iSectionService;
 
-    @RequestMapping(value = "/getName", method = RequestMethod.POST)
+    @CrossOrigin(origins = "*")
+    //@RequestMapping(value = "/getName", method = RequestMethod.POST)
+    @RequestMapping(value = "/getName")
     @ResponseBody
     private List<Section> getResults(@RequestParam String secId) { // 入参为正在观看的视频id，返回10*推荐的课程名称
         return iSectionService.getName(secId);
