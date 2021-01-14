@@ -1,0 +1,16 @@
+com/example/recommender/dao/ISectionDao.class
+com/example/recommender/controller/LoginController.class
+com/example/recommender/RecommenderApplication.class
+com/example/recommender/entity/Login.class
+com/example/recommender/dao/ILoginDao.class
+com/example/recommender/entity/recommendResult.class
+com/example/recommender/controller/SectionController.class
+com/example/recommender/service/impl/SectionService.class
+com/example/recommender/controller/RecommenderController.class
+com/example/recommender/service/impl/ResultService.class
+com/example/recommender/entity/Section.class
+com/example/recommender/service/IResultService.class
+com/example/recommender/service/ISectionService.class
+com/example/recommender/service/impl/LoginService.class
+com/example/recommender/service/ILoginService.class
+com/example/recommender/dao/IResultDao.class

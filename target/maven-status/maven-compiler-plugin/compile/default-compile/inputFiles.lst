@@ -1,0 +1,16 @@
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/service/impl/LoginService.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/service/ISectionService.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/dao/ILoginDao.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/entity/Login.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/service/impl/ResultService.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/controller/RecommenderController.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/entity/Section.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/entity/recommendResult.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/dao/IResultDao.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/service/ILoginService.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/dao/ISectionDao.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/RecommenderApplication.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/controller/SectionController.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/controller/LoginController.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/service/impl/SectionService.java
+/Users/yjl/Downloads/OLCoursesRecommenderSYS0112/src/main/java/com/example/recommender/service/IResultService.java
